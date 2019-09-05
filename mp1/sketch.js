@@ -25,9 +25,6 @@ function draw() {
     ellipse(240,200,5,5);
     ellipse(255,200,5,5);
     ellipse(245,215,10,10);
-
-
-
   }
 
 
