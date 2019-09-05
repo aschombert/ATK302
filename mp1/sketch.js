@@ -42,7 +42,7 @@ function draw() {
     ellipse(255,200,5,5);
 
   }
-
+print(mouseIsPressed);
 }
 
 function mouseReleased () {
