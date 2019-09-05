@@ -46,5 +46,5 @@ function draw() {
 }
 
 function mouseReleased () {
-  console.log(mouseX + ',' + mouseY)
+  console.log(mouseX + ',' + mouseY);
 }
