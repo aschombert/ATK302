@@ -6,6 +6,7 @@ var song;
 var song1;
 var song2;
 var song3;
+var song4;
 
 function preload() {
   song = loadSound('assets/rec1.m4a');
